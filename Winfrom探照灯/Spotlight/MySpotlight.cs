@@ -27,7 +27,7 @@ namespace Spotlight
 
 
         #region Test
-
+       string AA=("sss");
         #endregion
 
 
