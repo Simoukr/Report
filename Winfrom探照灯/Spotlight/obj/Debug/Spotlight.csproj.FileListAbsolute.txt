@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+H:\新建文件夹\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+H:\新建文件夹\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\ResolveAssemblyReference.cache
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+H:\新建文件夹\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.exe
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.pdb
+C:\Users\10251\Desktop\Spotlight\Spotlight\bin\Debug\Spotlight.exe
+C:\Users\10251\Desktop\Spotlight\Spotlight\bin\Debug\Spotlight.pdb
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.csprojResolveAssemblyReference.cache
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.FormSpotlight.resources
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.Properties.Resources.resources
+C:\Users\10251\Desktop\Spotlight\Spotlight\obj\Debug\Spotlight.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\bin\Release\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\bin\Release\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\Spotlight.FormSpotlight.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\Spotlight.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\Spotlight.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\Spotlight\Spotlight\obj\Release\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\bin\Release\Spotlight.exe
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\bin\Release\Spotlight.pdb
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\Spotlight.FormSpotlight.resources
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\Spotlight.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MM\Spotlight\Spotlight\obj\Release\Spotlight.csproj.GenerateResource.Cache
