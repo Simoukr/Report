@@ -27,6 +27,10 @@ namespace Spotlight
 
 
 
+
+
+
+
         //边框 画笔的颜色 大小
         private Color colorPen;
         private int intPenSize;
