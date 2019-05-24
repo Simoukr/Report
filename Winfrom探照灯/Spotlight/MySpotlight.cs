@@ -28,6 +28,7 @@ namespace Spotlight
 
         #region Test
        string AA=("sss");
+        bool iu = false;
         #endregion
 
 
